@@ -4,3 +4,5 @@ My name is Jekaterina
 I live in Riga
 I am learnig JAVA
 I enjoy programming
+
+I like yoga, gym and swimming
