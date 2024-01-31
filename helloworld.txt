@@ -6,3 +6,5 @@ I am learnig JAVA
 I enjoy programming
 
 I like yoga, gym and swimming
+
+I am a first year student of Computer Science
