@@ -5,3 +5,4 @@ I live in Riga
 I am learnig JAVA
 I enjoy programming
 
+some content
